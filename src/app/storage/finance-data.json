@@ -1,0 +1,110 @@
+[
+    {
+        "name": "LCA",
+        "bank": "Daycoval",
+        "category": "Renda Fixa",
+        "tax": "94%",
+        "subCategory": "Pós Fixado",
+        "nacionality": "Nacional",
+        "value": 14445.00
+    },
+    {
+        "name": "CDB",
+        "bank": "Daycoval", 
+        "category": "Renda Fixa", 
+        "tax": "110%",
+        "subCategory": "Pós Fixado",
+        "nacionality": "Nacional",
+        "value": 62034.00
+    },
+    {
+        "name": "CDB",
+        "bank": "Sofisa", 
+        "category": "Renda Fixa", 
+        "tax": "110%",
+        "subCategory": "Pós Fixado",
+        "nacionality": "Nacional",
+        "value": 72114.00
+    },
+    {
+        "name": "CDB",
+        "bank": "Sofisa", 
+        "category": "Renda Fixa",
+        "tax": "105%",
+        "subCategory": "Pós Fixado",
+        "nacionality": "Nacional",
+        "value": 31909.00
+    },
+    {
+        "name": "LCI",
+        "bank": "XP - BRB",
+        "category": "Renda Fixa", 
+        "tax": "94%",
+        "subCategory": "Pós Fixado",
+        "nacionality": "Nacional",
+        "value": 9275.00
+    },
+    {
+        "name": "CDB",
+        "bank": "XP - C6", 
+        "category": "Renda Fixa",
+        "tax": "9%",
+        "subCategory": "IPCA",
+        "nacionality": "Nacional",
+        "value": 4679.00
+    },
+    {
+        "name": "CDB",
+        "bank": "XP - C6",
+        "category": "Renda Fixa", 
+        "tax": "9,51%",
+        "subCategory": "IPCA",
+        "nacionality": "Nacional",
+        "value": 1197.00
+    },
+    {
+        "name": "CDB",
+        "bank": "XP - PAN",
+        "category": "Renda Fixa", 
+        "tax": "9,5%",
+        "subCategory": "IPCA",
+        "nacionality": "Nacional",
+        "value": 8329.00
+    },
+    {
+        "name": "CDB",
+        "bank": "XP - Original", 
+        "category": "Renda Fixa",
+        "tax": "9,6%",
+        "subCategory": "IPCA",
+        "nacionality": "Nacional",
+        "value": 21420.00
+    },
+    {
+        "name": "-",
+        "bank": "Nomad", 
+        "category": "Renda Fixa",
+        "tax": "-",
+        "subCategory": "Bond",
+        "nacionality": "Internacional",
+        "value": 38428.00
+    },
+    {
+        "name": "-",
+        "bank": "Nomad", 
+        "category": "Renda Variável",
+        "tax": "-",
+        "subCategory": "ETF",
+        "nacionality": "Internacional",
+        "value": 16130.00
+    },
+     {
+        "name": "-",
+        "bank": "Binance", 
+        "category": "Renda Variável",
+        "tax": "-",
+        "subCategory": "Criptomoeda",
+        "nacionality": "Internacional",
+        "value": 19209.00
+    }
+]
